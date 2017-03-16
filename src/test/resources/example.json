@@ -1,0 +1,89 @@
+{
+  "created_at" : "Wed Mar 15 18:17:22 +0000 2017",
+  "id" : 842077277538136079,
+  "id_str" : "842077277538136079",
+  "text" : "@DrakeMoon af: twisterch - pika pika!",
+  "display_text_range" : [
+    11,
+    37
+  ],
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated" : false,
+  "in_reply_to_status_id" : 842039959833980928,
+  "in_reply_to_status_id_str" : "842039959833980928",
+  "in_reply_to_user_id" : 738712291386986497,
+  "in_reply_to_user_id_str" : "738712291386986497",
+  "in_reply_to_screen_name" : "DrakeMoon",
+  "user" : {
+    "id" : 810009554469654528,
+    "id_str" : "810009554469654528",
+    "name" : "Andres Guty",
+    "screen_name" : "andresmg65",
+    "location" : "Valparaíso, Chile",
+    "url" : null,
+    "description" : "se feliz men! 🇨🇱 🔵⚪🔵",
+    "protected" : false,
+    "verified" : false,
+    "followers_count" : 70,
+    "friends_count" : 256,
+    "listed_count" : 1,
+    "favourites_count" : 2296,
+    "statuses_count" : 4160,
+    "created_at" : "Sat Dec 17 06:31:41 +0000 2016",
+    "utc_offset" : -10800,
+    "time_zone" : "Santiago",
+    "geo_enabled" : false,
+    "lang" : "es",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_link_color" : "FF0000",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/810014654407774208/0NDlqhAR_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/810014654407774208/0NDlqhAR_normal.jpg",
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/810009554469654528/1482199745",
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "following" : null,
+    "follow_request_sent" : null,
+    "notifications" : null
+  },
+  "geo" : null,
+  "coordinates" : null,
+  "place" : null,
+  "contributors" : null,
+  "is_quote_status" : false,
+  "retweet_count" : 0,
+  "favorite_count" : 0,
+  "entities" : {
+    "hashtags" : [
+    ],
+    "urls" : [
+    ],
+    "user_mentions" : [
+      {
+        "screen_name" : "DrakeMoon",
+        "name" : "DrakeMoon",
+        "id" : 738712291386986497,
+        "id_str" : "738712291386986497",
+        "indices" : [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols" : [
+    ]
+  },
+  "favorited" : false,
+  "retweeted" : false,
+  "filter_level" : "low",
+  "lang" : "in",
+  "timestamp_ms" : "1489601842661"
+}
